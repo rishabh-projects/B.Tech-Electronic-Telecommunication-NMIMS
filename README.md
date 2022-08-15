@@ -23,3 +23,11 @@
 ##### Digital Signal Processing
 ##### 5G System and Technologies
 ##### 5G Network
+##### Mobile Networks
+##### Network Programming
+##### Network Security
+##### Software Defined Networks
+##### Cyber Security
+##### Cryptography
+##### Identity and Access Management Technologies
+##### Cloud, IoT and Enterprise Security
